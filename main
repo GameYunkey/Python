@@ -1,2 +1,43 @@
 ## Python-Projekt
 Skill Tree
+
+Idee des Skill-trees: 
+- App artig 
+- verschiedene Kategorien 
+  - beispiel = 
+    - Politik 
+    - Geschichte
+    - Sport 
+    - Mathe 
+    - Sprachen 
+    - etc. 
+- Die Kategorien haben unterpunkte
+  - beispiel = 
+    - Politik: 
+      - Deutsche Politik
+      - Parteien 
+        - Whalpogramme
+      - Inflation
+      - Politik in anderen Ländern
+- Passende Bilder und Farben 
+- Angabe wie viel man am Tag / Woche / Monat machen möchte 
+  - beispiel = 
+    - Politik / Geschichte und Allgemein wissen = 1x die Woche 
+    - Sport / Sprachen und Kopf und Geist = Tägliche bearbeitung 
+- Welche Themen und art der Ausführung  
+  - Politik: Woche 1x; Parteien; Wahlprogramme; 30 Minuten lang
+  - Sport: Jeden 2. Tag; Liegestützen; 100 Stück
+- Die Kategorien sind anklick / auswähl bar. Nach anklicken läuft ein Timer (10 Sekunden) runter, somit kann man in position gehen für z.B. Liegestützen oder für das anklicken eines videos, etc. 
+- Ist die Kategoire und die Aufgabe des Tages angeklickt und der Timer ist abgelaufen wird bei zeitlich begrentzen Aufgaben ein weiterer Timer ablaufen (z.B 30 Minuten Politk: Woche 1x; ... ablaufen) ->
+  sind die 30 minuten erreicht wird das icon Grün. 
+- Gibt es unter einer Kategorie mehrere Aufgaben (z.B. Sport: Jeden 2. Tag; Liegestützen; 100 Stück + 100 Sit-Ups + 10 Minuten Planks, muss man die übung anklicken die ausgeführt wird. Macht man 10 Liegesützen 
+  kann man diese eintragen, somit ist es möglich seine 100 Liegestützen über den ganzen tag zu verteilen. Am ende des tages hat man dann 100 und erhält ein Grünes icon bei Liegestützen 
+- Hat man 50% an Täglichen aufgaben geschaft erhält man ein Daumen hoch 
+- Hat man 75% an Täglichen aufgaben geschaft erhält man ein ...
+- Hat man 100% an Täglichen aufgaben geschaft erhält man ein ...
+- Nach "Benutzer definierter Zeit" einer aufgaben reihe "Ich möchte diesen Starten "Skill"" nach 2 - 3 Wochen und 100% ausführung über diese 2 - 3 Wochen wird auf Level 2 Aufgestiegen und 
+  die aufgaben werden automatisch erschwert
+- Level 1 kann man selber einstellen oder Computer generriert einstellen lassen bei Sport z.B. mit gewicht anzahl an Sport aktivität, etc.
+- Level 2 und aufwärts wird automatisch erschwert, diese kann man nicht selber ändern
+- Man beginnt immer auf Level 1, egal ob man z.B. benutzerdefiniert mit 100 Liegestützen anfängt oder Computer generriert mit 20 Liegestützen täglich anfängt ( jeden 2. Tag ) 
+
