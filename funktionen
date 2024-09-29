@@ -42,12 +42,24 @@ Bedingung für Grünes Icon / Erledigte Aufgabe:
 - Aufgaben menge egal ob Zeitlich oder Stückzahl begrenzt abgeschlossen, dabei ist egal wie oft man diese aufgabe pausiert
   ( erstellt man eine aufgabe mit "Täglich 100 liegestützen" wird nicht erwartet diese Aufgabe in 30 minuten zu erledigen sondern über 24 stunden innerhalb von 0:00 - 24:00 Uhr 
 
-"Errungenschaftren" / Skill-Tree aufstieg:
-- Hat man 50% an Täglichen aufgaben geschaft erhält man ein Daumen hoch 
-- Hat man 75% an Täglichen aufgaben geschaft erhält man ein ...
-- Hat man 100% an Täglichen aufgaben geschaft erhält man ein ...
-- Nach "Benutzer definierter Zeit" (2 - 3 Wochen) einer aufgaben reihe "Ich möchte diesen "Skill" Starten" und 100% ausführung über diese 2 - 3 Wochen wird auf Level 2 Aufgestiegen und 
+App extra funktionen: 
+-> Kategorien können entfernt werden 
+-> Aufgaben Stück und Zeit können minimiert werden, jedoch nicht erhöt werden
+  -> Levelt man nach der minimierung auf, erhält man eine Levelaufstieg des minimierten wertes
+-> Aufgaben können entfernt werden 
+
+Level funktionen: 
+-> Ab einem bestimmten level können mehrere Aufgaben nicht mehr alle an einem Tag erledigt werden, wird dieses Level erreicht kann man andere aufgaben pausieren um die "Streak" nicht zu beenden 
+  -> Beispiels weise ist der wert für einen level aufstieg 20% bei 100 level wären das 2000% vom anfangs wert. Startet man level 1 mit 100 Liegestützen wären das 6.901.497.877 Liegestützen am Tag 
+    -> Daher wird es ein level 1 limit geben
+-> Aufgaben können nachdem abschliessen weiter gemacht werdne 
+  -> Wird eine aufgabe (Liegestützen) Level 1 = 10 Liegestützen für 7 Tage ( Zeit bis level aufstieg ) dauerhaft auf die gleiche Zahl erhöt zum beispiel 100 wird das neue Level eingestuft
+-> Level haben grund level 1 mit grund anzahl 
+-> Hat man 50% an Täglichen aufgaben geschaft erhält man ein Daumen hoch 
+-> Hat man 75% an Täglichen aufgaben geschaft erhält man ein ...
+-> Hat man 100% an Täglichen aufgaben geschaft erhält man ein ...
+-> Nach "Benutzer definierter Zeit" (2 - 3 Wochen) einer aufgaben reihe "Ich möchte diesen "Skill" Starten" und 100% ausführung über diese 2 - 3 Wochen wird auf Level 2 Aufgestiegen und 
   die aufgaben werden automatisch erschwert
-- Level 1 kann man selber einstellen oder Computer generriert einstellen lassen bei Sport z.B. mit gewicht anzahl an Sport aktivität, etc.
-- Level 2 und aufwärts wird automatisch erschwert, diese kann man nicht selber ändern
-- Man beginnt immer auf Level 1, egal ob man z.B. benutzerdefiniert mit 100 Liegestützen anfängt oder Computer generriert mit 20 Liegestützen täglich anfängt ( jeden 2. Tag ) 
+-> Level 1 ist grund defniert und nicht selbst einstellbar
+-> Level 2 und aufwärts wird automatisch erschwert, diese kann man nicht selber ändern
+-> Man beginnt immer auf Level 1
