@@ -1,1 +1,60 @@
+## 1. Design
+
+Skill-Tree:
+- App öffnung 
+- Anzeige einer Tabelle => Mit Level 
+  - Kategorie werden mit Tabellen angezeigt
+    -> Aufgaben in den Tabellen sind ebenfalls als Tabellen aufgelistet
+    -> Aufgaben haben ein Level oberhalb des Aufgaben Namen "Aufgaben-Name²"
+
+- Anzeige eines Skill-Tree => Verlauf nach unten -> Kategorien
+  - Kategorien werden im Skill-Tree angezeigt
+    -> Aufgabem im Skill-Tree haben Level neben Ihren Name stehen [1]--|Aufgabe| 
+    -> Eine Aufgabe ab dem 10ten level erhält eine bestimmte Animation 
+    -> Level 100 ist Maximales Level = Universums animation
+
+Icon Design:
+- Hexagon mit Passendem Icon 
+- Farben werden Random verteilt, daher kann jeder Nutzer eine andere Farbe für seine Kategorie haben
+- Farben der Kategorien und Aufgaben können geändert werden
+
+Kategorie Icons:
+  - Politik = Mensch / Männchen am Pult
+  - Geschichte = Buch / Uhr
+  - Sport = Muskolöser Arm 
+  - Sprachen = Megaphone
+  - Kopf und Geist = Hirn / Mönch 
+  - Informatik = Bildschirm
+  - Gärtnern = Gemüse
+  - Haushalt = Haus
+  - Sparen = Sparschwein
+  - Investieren = Aktien 
+  - Mathe = + - * / 
+  - Kochen und Backen = Gesplittetes Bild (von rechter oberen ecke bis zu linken unteren ecke) einer Hühner Keule und eines Cookies
+  - Musik = Guitare 
+  - Schule = Schulgebäude
+  - Arbeit = Geschäftsgebäude
+
+Main Seite -> von oben nach unten Kategorie auswahl 
+Kategorie Seite -> Aufgaben Namen mit Anzahl wie viel noch übrig ist
+Aufgaben Namen -> Hinzufügbare- | Notizen | Termine | Zeitliche Reminder | ...
+
+Aufgaben (Stück): 
+-> + und - für einzelne Stückzahl 
+-> + und - für 10er Schritte
+
+Aufgaben (Zeitlich):
+-> Start "Benutzerdefinerter Countdown" 5 - 20 Sekunden
+-> Countdown "Benutzerdefiniert" 
+-> Stop Taste um zu pausieren -> Start Countdown wird bei erneutem betätigen ein weiteres mal ausgeführt
+
+Kategorie succes farben: 
+-> Aufgabe erledigt 0% Grau / Helleres Schwarz -> 20% Gelb -> 50% Orange -> 80% Lightseagreen -> 100% Grün 
+-> Alle Aufgaben einer Kategorie erledigt -> Surprise Animation -> Kategorie wird nach Unten geworfen
+
+Aufgaben succes farben: 
+-> Aufgabe 0% Grau / Helleres Schwarz -> 20% Gelb -> 50% Orange -> 80% Lightseagreen -> 100% Grün 
+-> Grün -> Abhack animation -> Wird in der Kategorie Tabelle nach unten geworfen
+
+
 
