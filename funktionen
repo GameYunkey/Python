@@ -66,14 +66,15 @@ Level funktionen:
 
 Level Aufstieg: 
 -> Stück Zahl
-  -> Level 1 = 10 - Level 50 = 350 ( + 7 pro Level )
-  -> Level 50 = 350 - Level 75 = 575 Täglich ( + 9 pro Level ) 
-  -> Level 75 = 575 - Level 100 = 750 Täglich ( + 7 pro Level )  
+  -> Level 1 = 6 - Level 100 = 600 Täglich ( + 6 pro Level ) 
+
 -> Zeit (Sport) (Sekunden)
-  -> Level 1 = 30 - Level 50 = 530 Täglich ( + 10 pro level )
-  -> Level 50 = 530 - Level 98 = 1010 Täglich ( + 10 pro Level )
-  -> Level 98 = 1010 - Level 100 = 1100 Täglich ( + 40 pro Level )
--> Zeit (Lernen) (Minuten) Ist aufteilbar auf mehrere Themen
-  -> Level 1 = 20 - Level 98 = 510 Wöchentlich ( + 5 pro Level )
-  -> Level 98 = 510 - Level 100 = 600 Wöchentlich ( + 42,5 pro Level ) 
+  -> Level 1 = 30 - Level 98 = 1000 Täglich ( + 10 pro level )
+  -> Level 98 = 1010 - Level 100 = 1100 Täglich ( + 50 pro Level )
+
+-> Entfernung (Sport) (Meter)
+  -> Level 1 = 100 - Level 100 = 10.000 Zweitägig ( + 100 pro Level ) 
+
+-> Zahl (Lern Übungen)
+  -> Level 1 = 10 - Level 100 = 100 Zeitägig ( + 10 pro Level ) 
  
