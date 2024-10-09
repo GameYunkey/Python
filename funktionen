@@ -69,8 +69,10 @@ Level Aufstieg:
   -> Level 1 = 6 - Level 100 = 600 Täglich ( + 6 pro Level ) 
 
 -> Zeit (Sport) (Sekunden)
-  -> Level 1 = 30 - Level 98 = 1000 Täglich ( + 10 pro level )
-  -> Level 98 = 1010 - Level 100 = 1100 Täglich ( + 50 pro Level )
+  -> Level 1 = 10 - Level 100 = 100 Täglich ( + 10 pro Level )
+
+-> Zeit (Projekt) (Minuten) 
+  -> Level 1 = 6 - Level 100 = 600 Wöchentlich ( + 6 pro Level ) 
 
 -> Entfernung (Sport) (Meter)
   -> Level 1 = 100 - Level 100 = 10.000 Zweitägig ( + 100 pro Level ) 
