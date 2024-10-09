@@ -2,8 +2,8 @@
 # Eigene Test Version auf "Journal" 
 
 Sprachen = 
-Buch lesen: 0 / 10 ( Level 1 )
-Deutsche Fremdwörter: 0 / 10 ( Level 1 ) (
+Buch lesen: 0 / 10 ( Level 1 ) ( Buch angeben was gelesen wird -> App zählt die Seiten mit, sobald das Buch fertig ist wird ein neues Buch empfohlen ) 
+Deutsche Fremdwörter: 0 / 10 ( Level 1 ) ( Fremdwörter werden automatisch mit erklärung erstellt, sollte der User dies eingestellt habe ) 
 Japanisch Übungen: 0 / 10 ( Level 1 )
 
 Körper = 
@@ -17,11 +17,11 @@ Stimmen analysieren: 0 / 1 ( Level 1 ) ( Sonder Aufgabe ) ( Benutzerdefiniert = 
 Motivation: 0 / 15 ( Level 1 ) ( Sonder Aufgabe ) ( Benutzerdefiniert = Kann eigene Aufgaben erstellen, bennen und Zeit, Zahl, sekunden oder Meter auswählen )
 
 Projekte = 
-Shopify: 0 / 30 ( Level 50 ) ( Sonder Aufgabe )( Benutzerdefiniert = Kann eigene Aufgaben erstellen, bennen und Zeit, Zahl, sekunden oder Meter auswählen )
-Programmieren: 0 / 30 ( Level 50 ) ( Sonder Aufgabe ) ( Benutzerdefiniert = Kann eigene Aufgaben erstellen, bennen und Zeit, Zahl, sekunden oder Meter auswählen )
+Shopify: 0 / 30 ( Level 5 ) ( Benutzerdefiniert = Kann eigene Aufgaben erstellen, bennen und Zeit, Zahl, sekunden oder Meter auswählen )
+Programmieren: 0 / 30 ( Level 5 ) ( Benutzerdefiniert = Kann eigene Aufgaben erstellen, bennen und Zeit, Zahl, sekunden oder Meter auswählen )
 
 Lernen = 
-Geographie: 0 / 15 ( Je nach User auswahl wird für gewählte gebiete ein Test erstellt und daraus geschlossen was gelernt werden sollte mit Links zu Websiten und Videos ) ( Man kann auch für alle "Lern" Gebiete ein test erstellen ) 
+Geographie: 0 / 18 ( Level 3 ) ( Je nach User auswahl wird für gewählte gebiete ein Test erstellt und daraus geschlossen was gelernt werden sollte mit Links zu Websiten und Videos ) ( Man kann auch für alle "Lern" Gebiete ein test erstellen ) 
 ( Thema: Deutschland / Bayern / Nürnberg ) 
-Geschichte: 0 / 15 ( Je nach User auswahl wird für gewählte gebiete ein Test erstellt und daraus geschlossen was gelernt werden sollte mit Links zu Websiten und Videos ) ( Man kann auch für alle "Lern" Gebiete ein test erstellen ) 
+Geschichte: 0 / 18 ( Level 3 ) ( Je nach User auswahl wird für gewählte gebiete ein Test erstellt und daraus geschlossen was gelernt werden sollte mit Links zu Websiten und Videos ) ( Man kann auch für alle "Lern" Gebiete ein test erstellen ) 
 ( Thema: Zweiter Weltkrieg ) 
