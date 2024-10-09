@@ -1,0 +1,27 @@
+## Beispiel
+# Eigene Test Version auf "Journal" 
+
+Sprachen = 
+Buch lesen: 0 / 10 ( Level 1 )
+Deutsche Fremdwörter: 0 / 10 ( Level 1 ) (
+Japanisch Übungen: 0 / 10 ( Level 1 )
+
+Körper = 
+Joggen: 0 / 2.000 ( Level 20 )
+Kniebeuge: 0 / 102 ( Level 17 )
+
+Kopf und Geist = 
+Meditieren: 0 / 10 ( Level 1 ) ( Sonder Aufgabe ) = Nur 3x Level bar ( Level 1, 25, 50 und 100 ) ( 1 = 10; 25 = 20; 50 = 30; 100 = 40 - 60 ) ( Level 100 User Optional ) 
+Vergangenheit analysieren: 0 / 15 ( Level 1 ) ( Sonder Aufgabe ) ( Benutzerdefiniert = Kann eigene Aufgaben erstellen, bennen und Zeit, Zahl, sekunden oder Meter auswählen )
+Stimmen analysieren: 0 / 1 ( Level 1 ) ( Sonder Aufgabe ) ( Benutzerdefiniert = Kann eigene Aufgaben erstellen, bennen und Zeit, Zahl, sekunden oder Meter auswählen )
+Motivation: 0 / 15 ( Level 1 ) ( Sonder Aufgabe ) ( Benutzerdefiniert = Kann eigene Aufgaben erstellen, bennen und Zeit, Zahl, sekunden oder Meter auswählen )
+
+Projekte = 
+Shopify: 0 / 30 ( Level 50 ) ( Sonder Aufgabe )( Benutzerdefiniert = Kann eigene Aufgaben erstellen, bennen und Zeit, Zahl, sekunden oder Meter auswählen )
+Programmieren: 0 / 30 ( Level 50 ) ( Sonder Aufgabe ) ( Benutzerdefiniert = Kann eigene Aufgaben erstellen, bennen und Zeit, Zahl, sekunden oder Meter auswählen )
+
+Lernen = 
+Geographie: 0 / 15 ( Je nach User auswahl wird für gewählte gebiete ein Test erstellt und daraus geschlossen was gelernt werden sollte mit Links zu Websiten und Videos ) ( Man kann auch für alle "Lern" Gebiete ein test erstellen ) 
+( Thema: Deutschland / Bayern / Nürnberg ) 
+Geschichte: 0 / 15 ( Je nach User auswahl wird für gewählte gebiete ein Test erstellt und daraus geschlossen was gelernt werden sollte mit Links zu Websiten und Videos ) ( Man kann auch für alle "Lern" Gebiete ein test erstellen ) 
+( Thema: Zweiter Weltkrieg ) 
